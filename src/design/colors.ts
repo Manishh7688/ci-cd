@@ -2,7 +2,7 @@ export const colors = {
   primary: '#D71828',
   primaryDark: '#A8121E',
   white: '#FFFFFF',
-  black: '#111111',
+  black: '#111112',
   text: '#1C1C1C',
   brown: '#5E493B',
   muted: '#6E6D78',
